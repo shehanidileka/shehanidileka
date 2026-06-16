@@ -25,6 +25,28 @@ I am an **HNDIT Student at SLIATE**, passionate about software engineering and m
 
 ---
 
+### 📊 GitHub Stats
+<p align="left">
+  <a href="https://github.com/shehanidileka">
+    <img src="https://github-readme-stats.vercel.app/api?username=shehanidileka&show_icons=true&theme=dark&hide_border=false" alt="Shehani's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/shehanidileka">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanidileka&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="180" />
+  </a>
+</p>
+
+---
+
+### 🎯 Goals
+* Complete HNDIT successfully
+* Become a Software Engineer
+* Build real-world software projects
+* Contribute to open-source projects
+
+---
+
 ### 📫 Let's Connect!
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/shehani-dileka-91bb69370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdwgg%2BDMKT1acUzaQXdVg0w%3D%3D)]
-* ✉️ **Email:** [shehanidileka264@gmail.com]
+* 💼 **LinkedIn:** [Shehani Dileka](https://www.linkedin.com/in/shehani-dileka-91bb69370/)
+* ✉️ **Email:** shehanidileka264@gmail.com
+
+⭐️ Thank you for visiting my profile!
