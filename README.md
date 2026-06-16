@@ -26,5 +26,5 @@ I am an **HNDIT Student at SLIATE**, passionate about software engineering and m
 ---
 
 ### 📫 Let's Connect!
-* 💼 **LinkedIn:** [[ඔයාගේ LinkedIn Profile Link එක මෙතනට Paste කරන්න](https://www.linkedin.com/in/shehani-dileka-91bb69370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdwgg%2BDMKT1acUzaQXdVg0w%3D%3D)]
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/shehani-dileka-91bb69370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdwgg%2BDMKT1acUzaQXdVg0w%3D%3D)]
 * ✉️ **Email:** [shehanidileka264@gmail.com]
