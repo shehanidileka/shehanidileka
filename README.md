@@ -1,31 +1,31 @@
-# Hi there, I'm Shehani De Silva 👋
+# Hi there, I'm Shehani De Silva 
 
-### 🎓 About Me
+###  About Me
 I am an **HNDIT Student at SLIATE**, passionate about software engineering and modern web technologies. I love building clean backend systems and interactive desktop applications.
 
 ---
 
-### 🚀 What I Do
-* 🌐 **Web Development:** Crafting responsive and dynamic web applications using **Python & Flask**.
-* ☕ **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with **SQL Databases**.
+###  What I Do
+*  **Web Development:** Crafting responsive and dynamic web applications using **Python & Flask**.
+*  **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with **SQL Databases**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
-#### 🐍 Backend & Software Development
+####  Backend & Software Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### 💾 Databases & Frontend
+####  Databases & Frontend
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="left">
   <a href="https://github.com/shehanidileka">
     <img src="https://github-readme-stats.vercel.app/api?username=shehanidileka&show_icons=true&theme=dark&hide_border=false" alt="Shehani's GitHub Stats" height="180" />
@@ -37,7 +37,7 @@ I am an **HNDIT Student at SLIATE**, passionate about software engineering and m
 
 ---
 
-### 🎯 Goals
+###  Goals
 * Complete HNDIT successfully
 * Become a Software Engineer
 * Build real-world software projects
@@ -45,8 +45,8 @@ I am an **HNDIT Student at SLIATE**, passionate about software engineering and m
 
 ---
 
-### 📫 Let's Connect!
-* 💼 **LinkedIn:** [Shehani Dileka](https://www.linkedin.com/in/shehani-dileka-91bb69370/)
-* ✉️ **Email:** shehanidileka264@gmail.com
+###  Let's Connect!
+*  **LinkedIn:** [Shehani Dileka](https://www.linkedin.com/in/shehani-dileka-91bb69370/)
+*  **Email:** shehanidileka264@gmail.com
 
-⭐️ Thank you for visiting my profile!
+ Thank you for visiting my profile!
