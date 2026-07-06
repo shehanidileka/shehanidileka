@@ -1,29 +1,24 @@
-# Hi there, I'm Shehani De Silva 
+## Hi there, I'm Shenani De Silva
 
-###  About Me
-I am an **HNDIT Student at SLIATE**, passionate about software engineering and modern web technologies. I love building clean backend systems and interactive desktop applications.
-
----
-
-###  What I Do
-*  **Web Development:** Crafting responsive and dynamic web applications using **Python & Flask**.
-*  **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with **SQL Databases**.
+### About Me
+I am an HNDIT Student at SLIATE, passionate about software engineering and modern web technologies. I love building clean backend systems and interactive desktop applications.
 
 ---
 
-###  Tech Stack & Tools
-
-####  Backend & Software Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-####  Databases & Frontend
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### What I Do
+* **Web Development:** Crafting responsive and dynamic web applications using **Python & Flask**.
+* **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with SQL Databases.
+* **Mobile Development:** Designing and developing native Android applications using **Kotlin** and **Android Studio**.
 
 ---
+
+### Tech Stack & Tools
+
+#### Backend, Mobile & Software Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+#### Databases & Frontend
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ###  GitHub Stats
 <p align="left">
