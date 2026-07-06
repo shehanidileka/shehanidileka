@@ -1,7 +1,7 @@
 ## Hi there, I'm Shenani De Silva
 
 ### About Me
-I am an HNDIT Student at SLIATE, passionate about software engineering and modern web technologies. I love building clean backend systems and interactive desktop applications.
+I am an HNDIT Student at SLIATE, passionate about software engineering and modern web technologies. I love building clean backend systems, mobile applications and interactive desktop applications.
 
 ---
 
