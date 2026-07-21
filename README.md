@@ -28,10 +28,6 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehanidileka&theme=2077" alt="GitHub Profile Summary" width="100%" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanidileka&theme=2077" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanidileka&theme=2077" width="49%" />
 </p>
