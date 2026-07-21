@@ -28,12 +28,8 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 
 ### 📈 GitHub Stats
 <p align="left">
-  <a href="https://github.com/shehanidileka">
-    <img src="https://github-readme-stats.vercel.app/api?username=shehanidileka&show_icons=true&theme=dark&hide_border=false" alt="Shehani's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/shehanidileka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanidileka&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanidileka&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanidileka&layout=compact&theme=dark" alt="Top Languages" height="165" />
 </p>
 
 ---
