@@ -47,7 +47,7 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva)
+* **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva-91bb69370/)
 * **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)
 * **Email:** shehanidileka264@gmail.com
 * **Phone:** +94 75 377 9823 / +94 70 420 1423
