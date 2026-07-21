@@ -1,30 +1,18 @@
 ## Hi there, I'm Shehani De Silva 👋
 
 ### 👩‍💻 About Me
-I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack Developer**[cite: 1]. I love building clean backend systems, dynamic web applications, native mobile apps, and interactive desktop software[cite: 1]. Always eager to learn new technologies and apply my knowledge in professional environments[cite: 1].
+I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack Developer**. I love building clean backend systems, dynamic web applications, native mobile apps, and interactive desktop software. Always eager to learn new technologies and apply my knowledge in professional environments.
 
 ---
 
 ### 💻 What I Do
 
-* 🌐 **Web Development:**
-  * Crafting responsive web applications using **Python (Flask)**, **React**, **Next.js**, **Node.js**, **PHP**, and **Tailwind CSS**[cite: 1].
-  * *Projects:* 
-    * **AI Travel Recommendation System** (Python, Flask, SQLite, HTML/CSS) – Personalized Sri Lanka travel guide web application[cite: 1].
-    * **Personal Portfolio Website** (React, Vite, Tailwind CSS) – Responsive portfolio deployed on Vercel[cite: 1].
-    * **Employee Directory** (TypeScript) – Application for managing employee records.
-
-* 📱 **Mobile Development:**
-  * Designing native Android applications using **Kotlin** & **Android Studio**, and cross-platform apps with **Flutter**[cite: 1].
-  * *Projects:*
-    * **Scanner App** (Kotlin, Android Studio) – Native document and code scanning mobile app[cite: 1].
-    * **LMS App** (Kotlin, Android Studio) – Learning Management System mobile application[cite: 1].
-
-* 🖥️ **Desktop Applications:**
-  * Developing robust desktop software using **Java (NetBeans)** integrated with SQL databases[cite: 1].
-  * *Projects:*
-    * **Smart Inventory Management System** (Java, NetBeans, SQL) – Stock tracking & inventory reporting system[cite: 1].
-    * **Class Registration System** (Java, NetBeans, SQL) – Student class enrollment management system[cite: 1].
+* 🌐 **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
+  * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
+* 📱 **Mobile Development:** Kotlin, Android Studio, Flutter
+  * *Projects:* **Scanner App** | **LMS App**
+* 🖥️ **Desktop Applications:** Java (NetBeans), SQL
+  * *Projects:* **Smart Inventory System** | **Class Registration System**
 
 ---
 
@@ -51,18 +39,18 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 ---
 
 ### 🎯 Career Goals
-* 🎓 Successfully complete the HNDIT programme[cite: 1]
-* 🚀 Grow into a professional Software Engineer[cite: 1]
-* 💻 Build and deliver real-world software projects[cite: 1]
-* 🌐 Contribute actively to open-source projects[cite: 1]
+* 🎓 Successfully complete the HNDIT programme
+* 🚀 Grow into a professional Software Engineer
+* 💻 Build and deliver real-world software projects
+* 🌐 Contribute actively to open-source projects
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva)[cite: 1]
-* **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)[cite: 1]
-* **Email:** shehanidileka264@gmail.com[cite: 1]
-* **Phone:** +94 75 377 9823 / +94 70 420 1423[cite: 1]
+* **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva)
+* **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)
+* **Email:** shehanidileka264@gmail.com
+* **Phone:** +94 75 377 9823 / +94 70 420 1423
 
 ---
 *Thank you for visiting my profile!* 😊
