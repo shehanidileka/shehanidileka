@@ -1,22 +1,22 @@
 ## Hi there, I'm Shehani De Silva 👋
 
-### 👩‍💻 About Me
+### About Me
 I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack Developer**. I love building clean backend systems, dynamic web applications, native mobile apps, and interactive desktop software. Always eager to learn new technologies and apply my knowledge in professional environments.
 
 ---
 
-### 💻 What I Do
+### What I Do
 
-* 🌐 **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
+*  **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
   * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
-* 📱 **Mobile Development:** Kotlin, Android Studio, Flutter
+*  **Mobile Development:** Kotlin, Android Studio, Flutter
   * *Projects:* **Scanner App** | **LMS App**
-* 🖥️ **Desktop Applications:** Java (NetBeans), SQL
+*  **Desktop Applications:** Java (NetBeans), SQL
   * *Projects:* **Smart Inventory System** | **Class Registration System**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Backend, Languages & Mobile
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -26,7 +26,7 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanidileka&theme=slate" alt="Top Languages by Commit" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanidileka&theme=slate" alt="Top Languages by Repo" width="49%" />
@@ -34,15 +34,15 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 
 ---
 
-### 🎯 Career Goals
-* 🎓 Successfully complete the HNDIT programme
-* 🚀 Grow into a professional Software Engineer
-* 💻 Build and deliver real-world software projects
-* 🌐 Contribute actively to open-source projects
+### Career Goals
+*  Successfully complete the HNDIT programme
+*  Grow into a professional Software Engineer
+*  Build and deliver real-world software projects
+*  Contribute actively to open-source projects
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 * **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva-91bb69370/)
 * **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)
 * **Email:** shehanidileka264@gmail.com
