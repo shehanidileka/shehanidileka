@@ -7,7 +7,7 @@ I am an **HNDIT Student at SLIATE**, passionate about software engineering and m
 
 ### What I Do
 * **Web Development:** Crafting responsive and dynamic web applications using **Python & Flask**, **TypeScript**, and modern JavaScript frameworks (**React, Next.js**).
-  * *Employee Directory System* (TypeScript)
+  * *Employee Directory System* (TypeScript, Node.js)
   * *AI Travel Recommendation System* (Python, Flask, SQLite)
   * *Personal Portfolio Website* (React, Vite, Tailwind CSS)
 * **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with SQL Databases.
