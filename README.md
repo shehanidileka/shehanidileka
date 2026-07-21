@@ -8,11 +8,11 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 ### What I Do
 
 *  **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
-   *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
+  * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
 *  **Mobile Development:** Kotlin, Android Studio, Flutter
-   *Projects:* **Scanner App** | **LMS App**
+  * *Projects:* **Scanner App** | **LMS App**
 *  **Desktop Applications:** Java (NetBeans), SQL
-   *Projects:* **Smart Inventory System** | **Class Registration System**
+  * *Projects:* **Smart Inventory System** | **Class Registration System**
 
 ---
 
