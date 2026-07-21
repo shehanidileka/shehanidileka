@@ -6,9 +6,25 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 ---
 
 ### 💻 What I Do
-* 🌐 **Web Development:** Crafting responsive web applications using **Python (Flask)**, **React**, **Next.js**, **Node.js**, **PHP**, and **Tailwind CSS**[cite: 1].
-* 📱 **Mobile Development:** Designing native Android applications using **Kotlin** & **Android Studio**, as well as cross-platform development with **Flutter**[cite: 1].
-* 🖥️ **Desktop Applications:** Developing robust desktop software using **Java (NetBeans)** integrated with SQL databases[cite: 1].
+
+* 🌐 **Web Development:**
+  * Crafting responsive web applications using **Python (Flask)**, **React**, **Next.js**, **Node.js**, **PHP**, and **Tailwind CSS**[cite: 1].
+  * *Projects:* 
+    * **AI Travel Recommendation System** (Python, Flask, SQLite, HTML/CSS) – Personalized Sri Lanka travel guide web application[cite: 1].
+    * **Personal Portfolio Website** (React, Vite, Tailwind CSS) – Responsive portfolio deployed on Vercel[cite: 1].
+    * **Employee Directory** (TypeScript) – Application for managing employee records.
+
+* 📱 **Mobile Development:**
+  * Designing native Android applications using **Kotlin** & **Android Studio**, and cross-platform apps with **Flutter**[cite: 1].
+  * *Projects:*
+    * **Scanner App** (Kotlin, Android Studio) – Native document and code scanning mobile app[cite: 1].
+    * **LMS App** (Kotlin, Android Studio) – Learning Management System mobile application[cite: 1].
+
+* 🖥️ **Desktop Applications:**
+  * Developing robust desktop software using **Java (NetBeans)** integrated with SQL databases[cite: 1].
+  * *Projects:*
+    * **Smart Inventory Management System** (Java, NetBeans, SQL) – Stock tracking & inventory reporting system[cite: 1].
+    * **Class Registration System** (Java, NetBeans, SQL) – Student class enrollment management system[cite: 1].
 
 ---
 
@@ -19,38 +35,6 @@ I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack
 
 #### Frontend, Databases & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-* 🤖 **AI Travel Recommendation System**[cite: 1]
-  * *Tech:* Python, Flask, SQLite, HTML, CSS[cite: 1]
-  * AI-powered web app using Flask and a cleaned dataset to provide personalized travel recommendations in Sri Lanka[cite: 1].
-
-* 💻 **Personal Portfolio Website**[cite: 1]
-  * *Tech:* React, Vite, Tailwind CSS[cite: 1]
-  * Interactive portfolio deployed on Vercel to showcase skills, experience, and projects[cite: 1].
-
-* 📱 **Scanner App**[cite: 1]
-  * *Tech:* Kotlin, Android Studio[cite: 1]
-  * Native Android mobile app designed for seamless document and code scanning[cite: 1].
-
-* 📚 **LMS App**[cite: 1]
-  * *Tech:* Kotlin, Android Studio[cite: 1]
-  * Native mobile application for Learning Management System operations[cite: 1].
-
-* 📦 **Smart Inventory Management System**[cite: 1]
-  * *Tech:* Java, NetBeans, SQL[cite: 1]
-  * Desktop application for stock tracking and streamlining inventory operations[cite: 1].
-
-* 🎓 **Class Registration System**[cite: 1]
-  * *Tech:* Java, NetBeans, SQL[cite: 1]
-  * Desktop system built to manage student class enrollment records efficiently[cite: 1].
-
-* 📁 **Employee Directory**[cite: 1]
-  * *Tech:* TypeScript
-  * Modern application built with TypeScript to maintain employee records.
 
 ---
 
