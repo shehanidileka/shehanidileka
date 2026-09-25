@@ -1,7 +1,10 @@
 ## Hi there, I'm Shehani De Silva 👋
 
 ### About Me
-I am a passionate **HNDIT Undergraduate at SLIATE** and an aspiring **Full Stack Developer**. I love building clean backend systems, dynamic web applications, native mobile apps, and interactive desktop software. Always eager to learn new technologies and apply my knowledge in professional environments.
+I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate currently pursuing my
+                    diploma at SLIATE, with a strong passion for software engineering and modern web technologies.
+                    I build clean backend systems, mobile apps, and interactive desktop applications — and I'm always
+                    looking to grow as a developer.
 
 ---
 
