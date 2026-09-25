@@ -1,10 +1,7 @@
 ## Hi there, I'm Shehani De Silva 👋
 
 ### About Me
-I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate currently pursuing my
-                    diploma at SLIATE, with a strong passion for software engineering and modern web technologies.
-                    I build clean backend systems, mobile apps, and interactive desktop applications — and I'm always
-                    looking to grow as a developer.
+I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate currently pursuing my diploma at SLIATE, with a strong passion for software engineering and modern web technologies. I build clean backend systems, mobile apps, and interactive desktop applications — and I'm always looking to grow as a developer.
 
 ---
 
