@@ -30,7 +30,7 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 
 | Badge / Certificate | Course Name | Issuer | Credential Link / ID |
 | :---: | :--- | :--- | :---: |
-| <img src="https://images.credly.com/size/110x110/assets/a2a900dc-84e1-4566-a36c-941198642398/Postman_API_Beginner_Path.png" width="55"/> | **API Beginner** | Postman Academy | [View Credential](https://www.credly.com/earner/earned/badge/ecb95f97-861d-49d6-92c2-45e39e94f25b) |
+| 🛡️ | **API Beginner** | Postman Academy | [View Credential](https://www.credly.com/earner/earned/badge/ecb95f97-861d-49d6-92c2-45e39e94f25b) |
 | 📜 | **Web Design for Beginners** | CODL, University of Moratuwa | `ID: 26UCSgFAUY` |
 
 ---
@@ -38,7 +38,7 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 ### GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanidileka&theme=slate" alt="Top Languages by Commit" width="49%" />
-  <img src="https://github-profile-summary-cards.py/api/cards/repos-per-language?username=shehanidileka&theme=slate" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanidileka&theme=slate" alt="Top Languages by Repo" width="49%" />
 </p>
 
 ---
