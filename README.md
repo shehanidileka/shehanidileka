@@ -7,11 +7,11 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 
 ### What I Do
 
-*  **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
+* **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
   * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
-*  **Mobile Development:** Kotlin, Android Studio, Flutter
+* **Mobile Development:** Kotlin, Android Studio, Flutter
   * *Projects:* **Scanner App** | **LMS App**
-*  **Desktop Applications:** Java (NetBeans), SQL
+* **Desktop Applications:** Java (NetBeans), SQL
   * *Projects:* **Smart Inventory System** | **Class Registration System**
 
 ---
@@ -26,27 +26,36 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 
 ---
 
+### 🏆 Certifications & Badges
+
+| Badge / Certificate | Course Name | Issuer | Credential Link / ID |
+| :---: | :--- | :--- | :---: |
+| <img src="https://images.credly.com/size/110x110/assets/a2a900dc-84e1-4566-a36c-941198642398/Postman_API_Beginner_Path.png" width="55"/> | **API Beginner** | Postman Academy | [View Credential](https://www.credly.com/earner/earned/badge/ecb95f97-861d-49d6-92c2-45e39e94f25b) |
+| 📜 | **Web Design for Beginners** | CODL, University of Moratuwa | `ID: 26UCSgFAUY` |
+
+---
+
 ### GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanidileka&theme=slate" alt="Top Languages by Commit" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanidileka&theme=slate" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.py/api/cards/repos-per-language?username=shehanidileka&theme=slate" alt="Top Languages by Repo" width="49%" />
 </p>
 
 ---
 
 ### Career Goals
-*  Successfully complete the HNDIT programme
-*  Grow into a professional Software Engineer
-*  Build and deliver real-world software projects
-*  Contribute actively to open-source projects
+* Successfully complete the HNDIT programme
+* Grow into a professional Software Engineer
+* Build and deliver real-world software projects
+* Contribute actively to open-source projects
 
 ---
 
 ### Let's Connect!
-* **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva-91bb69370/)
-* **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)
-* **Email:** shehanidileka264@gmail.com
-* **Phone:** +94 75 377 9823 / +94 70 420 1423
+- **LinkedIn:** [Shehani De Silva](https://www.linkedin.com/in/shehani-de-silva-91bb69370/)
+- **GitHub:** [github.com/shehanidileka](https://github.com/shehanidileka)
+- **Email:** shehanidileka264@gmail.com
+- **Phone:** +94 75 377 9823 / +94 70 420 1423
 
 ---
 *Thank you for visiting my profile!* 😊
