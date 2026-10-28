@@ -1,22 +1,25 @@
-## Hi there, I'm Shehani De Silva 
+## Hi there, I'm Shehani De Silva 👋
 
 ### About Me
-I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate currently pursuing my diploma at SLIATE, with a strong passion for software engineering and modern web technologies. I build clean backend systems, mobile apps, and interactive desktop applications — and I'm always looking to grow as a developer.
+I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate currently pursuing my diploma at SLIATE. Currently, I am working as a **Web Developer Intern at ServerClub.lk**. I have a strong passion for software engineering and modern web technologies, building clean backend systems, mobile apps, and interactive desktop applications.
 
 ---
 
 ### What I Do
 
-* **Web Development:** 
-* **Mobile Development:**
-* **Desktop Applications:** 
+* **Web Development:** PHP (Laravel), Python (Flask), React, Next.js, Node.js, Tailwind CSS
+  * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
+* **Mobile Development:** Kotlin, Android Studio, Flutter
+  * *Projects:* **Scanner App** | **LMS App**
+* **Desktop Applications:** Java (NetBeans), SQL
+  * *Projects:* **Smart Inventory System** | **Class Registration System**
 
 ---
 
 ### Tech Stack & Tools
 
 #### Backend, Languages & Mobile
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 #### Frontend, Databases & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -42,9 +45,9 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 
 ### Career Goals
 * Successfully complete the HNDIT programme
-* Grow into a professional Software Engineer
+* Excel in my role as a Web Developer Intern at ServerClub.lk
+* Grow into a professional Full-Stack / Software Engineer
 * Build and deliver real-world software projects
-* Contribute actively to open-source projects
 
 ---
 
