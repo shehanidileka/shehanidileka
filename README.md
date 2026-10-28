@@ -7,12 +7,9 @@ I'm G.W.S.D. Shehani De Silva, a dedicated and motivated HNDIT undergraduate cur
 
 ### What I Do
 
-* **Web Development:** Python (Flask), React, Next.js, Node.js, PHP, Tailwind CSS
-  * *Projects:* **AI Travel Recommendation System** | **Portfolio Website** | **Employee Directory**
-* **Mobile Development:** Kotlin, Android Studio, Flutter
-  * *Projects:* **Scanner App** | **LMS App**
-* **Desktop Applications:** Java (NetBeans), SQL
-  * *Projects:* **Smart Inventory System** | **Class Registration System**
+* **Web Development:** 
+* **Mobile Development:**
+* **Desktop Applications:** 
 
 ---
 
